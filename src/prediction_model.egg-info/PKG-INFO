@@ -1,0 +1,63 @@
+Metadata-Version: 2.1
+Name: prediction_model
+Version: 1.0.0
+Summary: Loan Prediction Model
+Home-page: https://github.com/Abdallah-Elghandour
+Author: Abdallah Elghandour
+Author-email: abdallahelghandour1@gmail.com
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.9.0
+Description-Content-Type: text/markdown
+Requires-Dist: asttokens
+Requires-Dist: backcall
+Requires-Dist: colorama
+Requires-Dist: comm
+Requires-Dist: debugpy
+Requires-Dist: decorator
+Requires-Dist: exceptiongroup
+Requires-Dist: executing
+Requires-Dist: importlib-metadata
+Requires-Dist: iniconfig==2.0.0
+Requires-Dist: ipykernel
+Requires-Dist: ipython
+Requires-Dist: jedi
+Requires-Dist: joblib==1.4.2
+Requires-Dist: jupyter_client
+Requires-Dist: jupyter_core
+Requires-Dist: matplotlib-inline
+Requires-Dist: nest-asyncio
+Requires-Dist: numpy==1.26.4
+Requires-Dist: packaging
+Requires-Dist: pandas==2.2.2
+Requires-Dist: parso
+Requires-Dist: pickleshare
+Requires-Dist: platformdirs
+Requires-Dist: pluggy==1.5.0
+Requires-Dist: prompt-toolkit
+Requires-Dist: psutil
+Requires-Dist: pure-eval
+Requires-Dist: Pygments
+Requires-Dist: pytest==8.2.2
+Requires-Dist: python-dateutil
+Requires-Dist: pytz==2024.1
+Requires-Dist: pyzmq
+Requires-Dist: scikit-learn==1.5.0
+Requires-Dist: scipy==1.13.1
+Requires-Dist: six
+Requires-Dist: stack-data
+Requires-Dist: threadpoolctl==3.5.0
+Requires-Dist: tomli==2.0.1
+Requires-Dist: tornado
+Requires-Dist: traitlets
+Requires-Dist: typing_extensions
+Requires-Dist: tzdata==2024.1
+Requires-Dist: wcwidth
+Requires-Dist: zipp
+
+
