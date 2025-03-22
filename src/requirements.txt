@@ -45,7 +45,7 @@ wcwidth
 zipp 
 fastapi==0.111.0
 fastapi-cli==0.0.4
-gunicorn==22.0.0
+gunicorn==23.0.0
 pydantic==2.7.3
 pydantic_core==2.18.4
 uvicorn==0.30.1
